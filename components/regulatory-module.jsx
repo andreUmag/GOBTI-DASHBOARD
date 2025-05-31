@@ -118,7 +118,7 @@ export default function RegulatoryModule() {
       progress: 60,
       description: "Revisar y actualizar política de privacidad conforme a normativa vigente",
       deliverables: ["Política actualizada", "Aprobación legal", "Publicación web"],
-      budget: "$2,500",
+      budget: "$20,500",
     },
     {
       id: 2,
@@ -131,7 +131,7 @@ export default function RegulatoryModule() {
       progress: 20,
       description: "Crear y mantener registro detallado de actividades de tratamiento",
       deliverables: ["Plantilla de registro", "Procedimiento", "Capacitación"],
-      budget: "$1,800",
+      budget: "$10,800",
     },
     {
       id: 3,
@@ -144,7 +144,7 @@ export default function RegulatoryModule() {
       progress: 10,
       description: "Programa de capacitación para todo el personal en protección de datos",
       deliverables: ["Material de capacitación", "Evaluaciones", "Certificados"],
-      budget: "$3,200",
+      budget: "$30,200",
     },
     {
       id: 4,
@@ -157,7 +157,7 @@ export default function RegulatoryModule() {
       progress: 35,
       description: "Completar evaluación formal de riesgos de seguridad de la información",
       deliverables: ["Matriz de riesgos", "Plan de tratamiento", "Aprobación gerencial"],
-      budget: "$5,000",
+      budget: "$50,000",
     },
   ]
 
@@ -169,7 +169,7 @@ export default function RegulatoryModule() {
       auditor: "Consultor Externo",
       status: "Programada",
       duration: "2 días",
-      cost: "$4,500",
+      cost: "$400,500",
     },
     {
       type: "Revisión SIC",
@@ -187,7 +187,7 @@ export default function RegulatoryModule() {
       auditor: "Ente Certificador",
       status: "Planificada",
       duration: "3 días",
-      cost: "$8,000",
+      cost: "$800,000",
     },
   ]
 

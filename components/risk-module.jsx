@@ -30,7 +30,7 @@ export default function RiskModule() {
       currentControls: ["Antivirus básico", "Firewall perimetral"],
       plannedControls: ["Migración a nube", "EDR empresarial", "Backup inmutable"],
       timeline: "Q2 2024",
-      budget: "$15,000",
+      budget: "$150,000",
       owner: "Infraestructura TI",
     },
     {
@@ -47,7 +47,7 @@ export default function RiskModule() {
       currentControls: ["Backup manual", "Versiones locales"],
       plannedControls: ["Google Workspace", "Sincronización automática", "Control de versiones"],
       timeline: "Completado",
-      budget: "$3,600/año",
+      budget: "$30,600/año",
       owner: "Administración",
     },
     {
@@ -64,7 +64,7 @@ export default function RiskModule() {
       currentControls: ["Proveedor básico", "Monitoreo manual"],
       plannedControls: ["Proveedor empresarial", "SLA 99.9%", "Enlace de respaldo"],
       timeline: "Q3 2024",
-      budget: "$8,400/año",
+      budget: "$80,400/año",
       owner: "Infraestructura TI",
     },
     {
@@ -81,7 +81,7 @@ export default function RiskModule() {
       currentControls: ["Contraseñas compartidas", "Acceso básico"],
       plannedControls: ["Cuentas individuales", "2FA obligatorio", "Gestión de identidades"],
       timeline: "Q1 2024",
-      budget: "$2,400/año",
+      budget: "$20,400/año",
       owner: "Seguridad TI",
     },
     {
@@ -98,7 +98,7 @@ export default function RiskModule() {
       currentControls: ["Mantenimiento reactivo", "Repuestos limitados"],
       plannedControls: ["Plan de renovación", "Garantía extendida", "Inventario actualizado"],
       timeline: "Q4 2024",
-      budget: "$25,000",
+      budget: "$2,500.000",
       owner: "Infraestructura TI",
     },
   ]
